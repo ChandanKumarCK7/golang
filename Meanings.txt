@@ -1,0 +1,9 @@
+Q- so how to install just external library in go
+    go get github.com/streadway/amqp@v1.0.0
+
+Q- how to just initialize a directory or project as go related?
+    go mod init your_module_name
+
+Q- how to remove unwanted dependencies from go
+    go mod tidy
+
